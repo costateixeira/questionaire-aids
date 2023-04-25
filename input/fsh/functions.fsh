@@ -8,7 +8,7 @@ RuleSet: Question(linkId, text, type, repeats)
 
 
 Instance: hiv-questionnaire
-InstanceOf: Questionnaire
+InstanceOf: sdc-questionnaire-extr-smap
 Description: "Case Report Questionnaire"
 Title: "Case Report Questionnaire"
 Usage: #definition
