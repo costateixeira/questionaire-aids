@@ -1,9 +1,16 @@
 [
   {
-    "id" : "xxexample.fhir.uv.myig",
+    "id" : "my-ig",
     "type" : "ImplementationGuide",
-    "url" : "http://xxsomewhere.org/fhir/myig/ImplementationGuide/xxexample.fhir.uv.myig",
-    "version" : "0.1.0-test",
-    "name" : "XXYourComputableMyIGNameHere"
+    "url" : "http://example.com/fhir/example",
+    "version" : "1.0.0",
+    "name" : "ExampleIG"
+  },
+  {
+    "id" : "hiv-questionnaire",
+    "type" : "Questionnaire",
+    "url" : "http://example.com/fhir/example/Questionnaire/hiv-questionnaire",
+    "version" : "1.0.0",
+    "name" : "HIVCaseReportQuestionnaire"
   }
 ]
